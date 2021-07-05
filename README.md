@@ -6,4 +6,4 @@
 Todos os datasets utilizados neste projeto estão disponíveis no site oficial do [Enem - inep](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
 
 
-* O dicionário de dados para melhor entendimento do projeto estão disponíveis em [dicionário](https://github.com/matheusmvl/ms-challenge-2021/tree/main/dicionario)
+* O dicionário de dados para melhor entendimento do projeto está disponível em [dicionário](https://github.com/matheusmvl/ms-challenge-2021/tree/main/dicionario)
